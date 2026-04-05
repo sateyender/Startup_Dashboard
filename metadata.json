@@ -1,0 +1,5 @@
+{
+  "name": "Data Insights Dashboard",
+  "description": "A 3-page interactive data analysis dashboard converted from a Jupyter Notebook analysis.",
+  "requestFramePermissions": []
+}
